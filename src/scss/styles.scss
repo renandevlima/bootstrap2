@@ -1,0 +1,11 @@
+//Declaração de variaveis
+$primary: #E84058;
+$success: #F8A828; 
+$body-bg: #18BC98;
+
+
+.jumbotron{ 
+	background-color: #5048F0 !important; 
+}
+// Importação do Bootstrap
+@import "node_modules/bootstrap/scss/bootstrap";
